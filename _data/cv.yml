@@ -22,24 +22,23 @@ cv:
           - Dissertation: Female Workers and their Firms
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Centre for Health Economics, University of York
+        position: Research Fellow
+        location: York, UK
+        start_date: 2021
+        end_date: 
+        summary: Work in evaluating global health policy, focussing on Brazil and Indonesia. Apply and develop machine learning methodology for causal inference.  
         highlights:
-          - Relativity
-          - Description 2.
+          - Instructor for SMEEHTA and AMEEHTA courses
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+
+      - company: Department of Economics, University of Miami
+        position: Research Assistant
+        location: Miami, Florida, US
+        start_date: 2016
+        end_date: 2021
         highlights:
-          - Description 1.
-          - Description 2.
+
 
     Publications:
       - title: See PDF 
