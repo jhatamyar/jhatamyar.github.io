@@ -6,10 +6,9 @@ subtitle: Research Fellow, University of York
 
 profile:
   align: right
-  image: Hatamyar-photo.jpg
+  image: assets/Hatamyar-photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Alcuin Block A </p>
     <p>University of York</p>
     <p>YO10 5DD, United Kingdom</p>
 
@@ -22,8 +21,8 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
