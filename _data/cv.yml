@@ -1,6 +1,6 @@
 cv:
   name: Julia Hatamyar
-  label: Economist
+  label: Research Fellow
   email: julia.hatamyar@york.ac.uk
   location: York, United Kingdom
   image: ""
@@ -19,7 +19,7 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Dissertation: Female Workers and their Firms
+          Gender and Labour
 
     Experience:
       - company: Centre for Health Economics, University of York
@@ -52,6 +52,12 @@ cv:
 
     Interests:
       - name: Causal Machine Learning
+        icon: fa-solid fa-tag
+
+      - name: Health Economics
+        icon: fa-solid fa-tag
+
+      - name: Labour Economics
         icon: fa-solid fa-tag
 
 
