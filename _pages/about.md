@@ -6,7 +6,7 @@ subtitle: Research Fellow, University of York
 
 profile:
   align: right
-  image: assets/Hatamyar-photo.jpg
+  image: prof-pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of York</p>
