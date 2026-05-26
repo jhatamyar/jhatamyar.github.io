@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /events/
+permalink: /teachings/
 title: events
 description: Workshops and short courses, seminars, and other engagements.
 nav: true
