@@ -9,4 +9,4 @@ calendar: true
 ---
 
 
-
+{% include courses.liquid %}
